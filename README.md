@@ -6,14 +6,15 @@ We release the PyTorch code of [LSTA](https://arxiv.org/pdf/1811.10698.pdf)
 ![LSTA](https://drive.google.com/uc?export=view&id=1gf9Ih_mK1xsd4ZVZvP7tsy4QJEkK1Dsz)
 
 
-####Reference
+#### Reference
 Please cite our paper if you find the repo and the paper useful.
 ```
-@inproceedings{lsta,
-  title={{LSTA: Long Short-Term Attention for Egocentric Action Recognition}},
-  author={Sudhakaran, S. and Escalera, S. and Lanz, O.},
-  booktitle={Proc. CVPR},
-  year={2019}
+@InProceedings{Sudhakaran_2019_CVPR,
+author = {Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald},
+title = {LSTA: Long Short-Term Attention for Egocentric Action Recognition},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
 }
 ```
 
