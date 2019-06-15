@@ -34,6 +34,14 @@ python main_rgb.py --dataset gtea_61 --root_dir dataset --outDir experiments --s
                    --decayRate 0.1 --memSize 512 --outPoolSize 100 --evalInterval 5 --split 2
 ````
 
+#### Evaluation
+Testing on the trained models can be done by running the script test_rgb.sh
+#### **Pretrained models**
+
+The pre-trained models can be downloaded from the following [Google Drive link](https://drive.google.com/drive/folders/1KIUuoaa1_ipGFOYZB6Oe3yITBKZlrpWr?usp=sharing)
+
+
+
 #### TODO
 1. EPIC-KITCHENS code
 2. Flow and two stream codes
