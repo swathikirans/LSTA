@@ -11,7 +11,7 @@ Please cite our paper if you find the repo and the paper useful.
 ```
 @InProceedings{Sudhakaran_2019_CVPR,
 author = {Sudhakaran, Swathikiran and Escalera, Sergio and Lanz, Oswald},
-title = {LSTA: Long Short-Term Attention for Egocentric Action Recognition},
+title = {{LSTA: Long Short-Term Attention for Egocentric Action Recognition}},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2019}
